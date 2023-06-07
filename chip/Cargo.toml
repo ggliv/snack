@@ -1,0 +1,10 @@
+[package]
+name = "chip"
+version = "0.1.0"
+edition = "2021"
+authors = ["Gabe Livengood"]
+description = "toy implementation of the CHIP-8 instruction set"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
