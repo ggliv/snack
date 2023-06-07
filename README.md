@@ -4,7 +4,7 @@
 A toy CHIP-8 implementation meant to teach me about emulation, computer architecture, and Rust.
 
 
-## What
+## What?
 In a nutshell, CHIP-8 is a virtual machine specification that was made in the '70s to provide a portable and easy to implement platform for simple video games. In this project, I implement it. You can read more about the topic [on Wikipedia](https://en.wikipedia.org/wiki/CHIP-8).
 
 
@@ -39,7 +39,7 @@ I utilized these resources extensively while working on this project:
 Huge thanks to the authors and contributors of these pages.
 
 
-## TODO
+## todo!()
 This project is still fairly rough around the edges. At some point, I'd like to improve/add/fix the following:
 - Customizable color palette
 - Customizable control mapping
